@@ -1,1 +1,1 @@
-# Bank-Customer-Churn-
+# Bank-Customer-Churn-ANN classification implementation
